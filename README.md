@@ -1,2 +1,2 @@
 # PanoplyCMS
-PAnoplyCMS in Meteor 1.3
+PanoplyCMS in Meteor 1.3
